@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A computer science student at Dalhousie</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhamidev" alt="jhamidev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jace8bit" target="blank"><img src="https://img.shields.io/twitter/follow/jace8bit?logo=twitter&style=for-the-badge" alt="jace8bit" /></a> </p>
-
 - 🔭 I’m currently working on **building a portfolio**
 
 - 🌱 I’m currently learning **C, Assembly, SQL, MySQL, Regex, Computational Theory**
@@ -23,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhamidev&show_icons=true&locale=en&layout=compact" alt="jhamidev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhamidev&show_icons=true&locale=en" alt="jhamidev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhamidev&show_icons=true&theme=dark&locale=en" alt="jhamidev" /></p>
